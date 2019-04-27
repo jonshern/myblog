@@ -1,0 +1,4 @@
+baseURL = "http://sherndevelopment.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
